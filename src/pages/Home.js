@@ -154,7 +154,7 @@ const Home = () => {
         </div>
       </section>
       <section className="bg-black p-4">
-        <p className="text-center text-red-500 text-[13px]">Let's find out</p>
+        <p className="text-center text-red-500 text-[13px]">Let's Find Out</p>
         <p className="text-center text-white text-[27px] font-[600]">How it works</p>
       </section>
       <section className="py-16 bg-gray-100">
